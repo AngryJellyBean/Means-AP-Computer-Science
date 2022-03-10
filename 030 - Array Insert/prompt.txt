@@ -1,0 +1,11 @@
+Write a public static method named insert. The insert method should have the signature: insert(String[] words, String newWord, int place), should return a boolean, and should function as described below.
+
+When called, if place does not represent a valid index for words, then the method will return false to indicate the insertion could not be performed and do nothing else. (2 pts)
+
+Otherwise the method will insert the String newWord into the array words at the index place, moving each subsequent entry one place further and losing the final String in the array. (4 pts)
+
+The method will then return true to indicate the insertion has taken place. (2 pts)
+
+Remember to use proper formatting and comments. (2 pts)
+
+(Total: 10 pts)

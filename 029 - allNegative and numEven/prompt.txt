@@ -1,0 +1,7 @@
+For this assignment, you will write two methods, listed below. Then you will call these methods on the given array and print the result.
+
+1. Write a public static method called allNegative, which has a single parameter of an array of int values. The method should return a boolean which is true if the parameter array contains only negative values, and false otherwise. (4 points)
+2. Write a public static method called numEven, which has a single parameter of an array of int values. The method should return the number of elements in the array which are even. (4 points)
+3. Call both methods and print the results. (2 points)
+
+Comments and proper formatting (2 points), (Total: 12 points)

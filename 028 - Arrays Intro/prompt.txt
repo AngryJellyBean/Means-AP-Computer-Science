@@ -1,0 +1,7 @@
+For this assignment, you will be working with two arrays. The first array, message, is an array of strings that spell out a secret message when read backward. Create a new string by iterating through message backwards, and print this new string to the screen. (5 pts)
+
+The second array. triangularNumbers, is an integer array with 10 slots. You will need to find the first 10 triangular numbers (from 0 to 9) and put them into this array. The formula for Triangular Numbers can be found here. Then, print the contents of triangularNnumbers. (5pts)
+
+You must use a for loop for both of these tasks. Remember to include comments and proper formatting (2 pts).
+
+(Total: 12 pts)

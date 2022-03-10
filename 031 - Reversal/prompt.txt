@@ -1,0 +1,18 @@
+Implement the method named reverse which processes the array of strings named words by printing each String from words backwards on its own line. This method accepts an array of Strings as a parameter, but it is void.
+For example, if words contains:
+{"every", "nearing", "checking", "food", "stand", "value"}
+The method should output:
+yreve
+gniraen
+gnikcehc
+doof
+dnats
+eulav
+
+Points:
+
+- Method Header (2 pts)
+- Loop through the array (3 pts)
+- Printing each element backwards (3 pts)
+- Formatting/Comments (2 pts)
+(Total 10 pts)
