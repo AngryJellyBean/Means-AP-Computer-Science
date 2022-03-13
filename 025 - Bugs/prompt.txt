@@ -1,0 +1,5 @@
+Your job for this assignment is to complete the Bug class by writing accessor, mutator, and toString methods.
+
+Then, run the Main.java file and trace through the code. Make sure you know what each line is doing.
+
+(Each method is worth 2 points. Another 2 points for formatting and comments. Total: 16 points.)
