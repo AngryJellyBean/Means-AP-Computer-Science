@@ -1,0 +1,9 @@
+For this assignment, you will write two static methods and call them.
+
+In Main.java, write the method fibonacciSpecific(). This method is public, static, returns an integer, and it accepts one integer, n, as a parameter. It returns the nth item in the Fibonacci sequence (the 0th item is 0, the 1st item is 1, the 2nd item is 1, the 3rd item is 2, etc.). If the parameter is negative, fibonacciSpecific() should return -1. (4 points)
+
+In Main.java, write the method fibonacciAll(). This method is public, static, has no return statement, and it accepts one integer, n, as a parameter. It prints the first n numbers in the Fibonacci sequence. If the parameter is less than or equal to zero, fibonacciAll() should simply print “Invalid Index”. (4 points)
+
+In the main method, do the following: Have the user input an integer. Call fibonacciSpecific with the user's input as a parameter, and print the result. Call fibonacciAll with the user's input. Call fibonacciSpecific with parameter specialNumber, add the result to what you got when you called fibonacciSpecific with the user input, and print that sum. (6 points)
+
+Of course, use readable formatting and include comments. (2 points) (Total: 16 points)
