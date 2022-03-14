@@ -1,0 +1,83 @@
+Write a program that plays the Fizz Buzz game.
+
+Have the user input two positive integers. (4 pts)
+
+Use a For Loop to print out the integers between 1 and 100. HOWEVER, if a number is divisible by the first user input, print “Fizz” instead. If a number is divisible by the second user input, output “Buzz” instead. If a number is divisible by both of the user's integers, then output “Fizz Buzz” instead. (8 pts)
+
+Keep track of how many times “Fizz” was printed and how many times “Buzz” was printed. Print this information after the list of numbers. (4 pts)
+
+Remember to use clean spacing and helpful comments. (2 pts)
+
+(Total: 18 pts)
+
+Example Run:
+
+Input the Fizz number.
+
+>> 3
+
+Input the Buzz number.
+
+>> 5
+
+Here is your Fizz Buzz:
+
+1
+
+2
+
+Fizz
+
+4
+
+Buzz
+
+Fizz
+
+7
+
+8
+
+Fizz
+
+Buzz
+
+11
+
+Fizz
+
+13
+
+14
+
+Fizz Buzz
+
+16
+
+17
+
+Fizz
+
+19
+
+Buzz
+
+Fizz
+
+22
+
+23
+
+… (entries for 24-96) …
+
+97
+
+98
+
+Fizz
+
+Buzz
+
+Number of Fizz: 33
+
+Number of Buzz: 20
