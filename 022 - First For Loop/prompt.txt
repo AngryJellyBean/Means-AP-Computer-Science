@@ -1,0 +1,7 @@
+Ask the user to input two different integers. Assume the second integer is larger than the first. (2 pts)
+
+Print out all odd numbers between the first and second inputs (inclusive), including the inputs if necessary. (6 pts)
+
+Remember to include clean formatting and at least two appropriate comments: (2 pts)
+
+(Total: 10 pts)
