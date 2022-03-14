@@ -1,0 +1,15 @@
+This is the second version of the number guessing game you made in assignment 14.
+
+Generate a random number between 1 and 10 (inclusive). (2 pts)
+
+Ask the user to guess the number. (2 pts)
+
+Check whether the answer is within the acceptable range. If it is not, ask the user for another number. (2 pts)
+
+If within the acceptable range, tell the user whether their guess was too high, too low, or correct. (3 pts)
+
+Continue asking the user for a guess until they get it correct. Tell the user how many guesses it took them to win. (4 pts)
+
+Remember to include multiple helpful comments and use proper formatting. (2 pts)
+
+(Total: 15 pts)
