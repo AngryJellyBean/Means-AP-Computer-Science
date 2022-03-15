@@ -1,0 +1,3 @@
+For this assignment, you will fill in the attributes and methods for the Account class. Then you will use the Account class in the Main Class.
+
+Read the comments in the template for instructions and point values.
