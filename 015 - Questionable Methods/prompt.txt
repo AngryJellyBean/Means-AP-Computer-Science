@@ -1,0 +1,23 @@
+For this assignment, you will write two methods. One named findQuestionMark, and one named removeQuestionMark. The method signatures have already been written for you.
+
+The method findQuestionMark accepts one string parameter and returns the index where “?” is found in that string. It returns -1 if there is no “?” (2 pts)
+
+The method removeQuestionMark accepts one string parameter and returns it with the “?” removed. This method must call findQuestionMark. If the parameter does not contain “?”, then return it unchanged. (2pts)
+
+Then, in the main method: Create an object of the Scanner class, and ask the user to input a string. Output the results of findQuestionMark and removeQuestionMark. (4 pts)
+
+Assume that the user input will contain at most one “?”
+
+Examples:
+
+Input: dog?cat
+
+Output: 3, dogcat
+
+Input: porkypig
+
+Output: -1, porkypig
+
+Input: ?wowee
+
+Output: 0, wowee
