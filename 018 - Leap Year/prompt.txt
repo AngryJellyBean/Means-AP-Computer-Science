@@ -1,0 +1,17 @@
+Design and implement an application that reads an integer value representing a year input by the user. The purpose of the program is to determine if the year is a leap year (and therefore has 29 days in February) in the Gregorian calendar. A year is a leap year if it is divisible by 4, unless it is also divisible by 100, then it must also be divisible by 400.
+
+For example, the year 2003 is not a leap year, but 2004 is. The year 1900 is not a leap year because although it is divisible by 4 and it is divisible by 100, it is not also divisible by 400. The year 2000 is a leap year because even though it is divisible by 100, it is also divisible by 400. Produce an error message for any input value less than 1582 (the year the Gregorian calendar was adopted).
+
+a.       Declare variable (1 pt)
+
+b.      Input year from keyboard w/ prompt     (1 pt)
+
+c.       Test for invalid year, year < 1582, prompt w/ invalid entry  (2 pt)
+
+d.      Test for valid leap year, prompt indicates valid year     (3 pt)
+
+e.       Test for non-valid leap year, prompt indicates non-valid year    (3 pt)
+
+(2 pt for proper formatting and comments)
+
+(Total 12 points)
