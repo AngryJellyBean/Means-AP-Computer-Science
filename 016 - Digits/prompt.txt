@@ -1,0 +1,17 @@
+Ask the user for a three-digit integer. (2 pts)
+
+Then, print the digits of that number on separate lines, in reverse order. (3 pts)
+
+Sample Run:
+
+Please enter a three-digit number.
+
+385
+
+Digits:
+
+5
+
+8
+
+3
