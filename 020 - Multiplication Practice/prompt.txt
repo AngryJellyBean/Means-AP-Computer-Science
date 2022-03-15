@@ -1,0 +1,9 @@
+Create a program to let the user practice their multiplication tables. Print a multiplication question using two
+random integers between 1 and 12. Then allow the user input an int as their answer to the multiplication of the
+two numbers. If they enter the correct product print “Correct!” otherwise print “Wrong”. You must use an else
+statement in your code to receive full credit for this exercise.
+
+1. Generate two random integers between 1 and 12. Then multiply them to get an answer. (2 pts)
+2. Prompt the user to answer the multiplication problem, and collect an int from the user. (2 pts)
+3. Determine if the user has the correct answer, and display whether they were correct. (2 pts)
+4. Proper spacing and two comments (2 pts)
