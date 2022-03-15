@@ -1,0 +1,10 @@
+Given the coefficients of a quadratic equation, determine whether or not the roots of the equation are real or imaginary. If the discriminant evaluates to > 0 then the solution contains 2 real roots. If the discriminant evaluates to 0, then the solution is 1 real root. However, if the discriminant evaluates to a negative number then there are 2 imaginary numbers as solutions. If real roots exist, calculate the real roots and display the proper result. If the solution is imaginary then display “there are no real roots”.
+
+The program should perform the following:
+
+1. Declare and input the first, second, and third coefficient of the equation. (3 pts)
+2. Declaration and evaluation of the discriminant (3 pts)
+3. Decision structure which properly displays the result of three possible outcomes. (9 pts)
+4. Proper formatting and comments (2 pts)
+
+(Total 17 pts)
