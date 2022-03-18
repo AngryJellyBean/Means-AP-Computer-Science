@@ -1,0 +1,13 @@
+Create an object of the Scanner class. (1 pt)
+
+Generate and store a random integer between 1 and 10. (1 pt)
+
+Ask the user to input a guess between 1 and 10. (1 pt)
+
+If the guess is not between 1 and 10, print “That number is not allowed! You lose!” (1 pt)
+
+If the guess is too high, print “Your guess was too high! The number was ___. You lose!” (1 pt)
+
+If the guess is too low, print “Your guess was too low! The number was ___. You lose!” (1 pt)
+
+If the guess matches the random number, print “Congratulations! ___ was the right number! You win!” (1 pt)
