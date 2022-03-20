@@ -1,0 +1,5 @@
+Create an object of the Scanner class. (1 pt)
+
+Ask the user for their grade percentage. (If a user has a 90.5%, then they enter 90.5) (1 pt)
+
+Print “Your letter grade is __” using if statements to fill in the blank with the appropriate letter grade. (2 pt)
