@@ -1,0 +1,15 @@
+Create an instance of the Scanner class. Remember to import the necessary library.
+
+Ask the user for a single word, and then ask them for an integer. Capture these values with variables.
+
+Write a void method in the Main class which takes a string as a parameter. Within the function, print the phrase “Simon says <parameter>!”
+
+Call the simonSays method from the main method with the user's word as a parameter.
+
+Write a method in the Main class which accepts an integer as a parameter and returns its additive inverse as an integer.
+
+Call the additiveInverse method from the main method with the user's integer as a parameter. Capture the returned value with a variable, and print the value on its own line.
+
+Write a void method in the Main class which accepts no parameters and simply prints “That's all folks!”
+
+Call the finalMessage method from the main method.
